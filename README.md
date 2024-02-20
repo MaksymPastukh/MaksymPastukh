@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/MaksymPastukh" target="_blank">MAX⚡</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>😄</h1>
 <h2 align="center">I am frontend developer with experience in building interactive
-and responsive websites as well as applications. Strong creative and
-analytical skills. A team player with attention to detail.
+and responsive websites as well as webapplications. A team player with attention to detail.
 </h2>
 <h3 align="center">My passion for creating interactive and engaging
 user interfaces is the driving force behind my
