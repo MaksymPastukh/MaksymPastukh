@@ -1,6 +1,11 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/MaksymPastukh" target="_blank">MAX</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/MaksymPastukh" target="_blank">MAX⚡</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend programmer from Ukraine, create user-friendly and responsive web applications and pages</h3>
+<h3 align="center">I am a skilled frontend developer with experience in building interactive
+and responsive websites as well as applications. Strong creative and
+analytical skills. A team player with attention to detail.
+My passion for creating interactive and engaging
+user interfaces is the driving force behind my
+career. 😄</h3>
 
 <!--
 **MaksymPastukh/MaksymPastukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
