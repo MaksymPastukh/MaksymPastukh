@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend programmer from Ukraine, create user-friendly and responsive web applications and pages</h3>
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/xam7) 
 <!--
 **MaksymPastukh/MaksymPastukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
