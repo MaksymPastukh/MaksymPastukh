@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/MaksymPastukh" target="_blank">MAX</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend programmer from Ukraine, create user-friendly and responsive web applications and pages</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **MaksymPastukh/MaksymPastukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
