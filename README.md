@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>😄 Hi there, I'm <a href="https://github.com/MaksymPastukh" target="_blank">MAX</a></h1>
+<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>😄 Hi there</h1>
 
 
 
