@@ -1,5 +1,5 @@
 <h1 align="left"> Hi there 👋</h1>
-<h3 align="center">I`m a Web developer from Ukraine, specializing in creating modern and high-performance websites and applications using Angular and TypeScript. </br>Programming for me is not just a job, but a true passion.
+<h3 align="left">I`m a Web developer from Ukraine, specializing in creating modern and high-performance websites and applications using Angular and TypeScript. </br>Programming for me is not just a job, but a true passion.
    </h3>
 
 ---
