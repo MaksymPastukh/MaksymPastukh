@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there 👋</h1>
-<h3 align="center">I`m a Web developer from Ukraine, specializing in creating modern and high-performance websites and applications using JavaScript, TypeScript and Angular. Programming for me is not just a job, but a true passion.
-   I constantly strive to learn new technologies and best practices to create solutions that not only solve problems, but also exceed expectations.</h3>
+<h3 align="center">I`m a Web developer from Ukraine, specializing in creating modern and high-performance websites and applications using JavaScript, TypeScript and Angular. </br>Programming for me is not just a job, but a true passion.
+   </h3>
 
 ---
 <h3 align="center">🛠 Languages and Tools</h3>
