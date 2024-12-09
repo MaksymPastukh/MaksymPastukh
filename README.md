@@ -19,7 +19,6 @@
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="RxJs" title="RxJs" width="40" height="40"/>&nbsp;
   <img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" title="NgRx" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="40" height="40"/>&nbsp;
 </p>
 
 #### Project builders
