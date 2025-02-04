@@ -3,7 +3,7 @@
    </h3>
 
 ---
-<h3 align="center">🛠 Frontend Technologies</h3>
+<h3 align="center">🛠 Technologies</h3>
 
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="40" height="40"/>&nbsp;
