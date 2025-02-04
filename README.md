@@ -1,11 +1,11 @@
 <h1 align="left"> Hi there 👋</h1>
-<h3 align="left">Web developer from Ukraine, specializing in creating modern and high-performance websites and applications using Angular and TypeScript. </br> Programming for me is not just a job, but a true passion.
+<h3 align="left">Web developer from Ukraine, specializing in creating modern and high-performance websites and applications using Angular and TypeScript. Programming for me is not just a job, but a true passion.
    </h3>
 
 ---
 <h3 align="center">🛠 Technologies</h3>
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="40" height="40"/> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="40" height="40"/> &nbsp;
