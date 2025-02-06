@@ -1,5 +1,5 @@
 <h1 align="left"> Hi there 👋</h1>
-<h3 align="left">Web developer from Ukraine </br>Specializing in creating modern and high-performance websites and applications using Angular and TypeScript.</h3>
+<h3 align="left">Web developer from Ukraine specializing in creating modern and high-performance websites and applications using Angular and TypeScript.</h3>
 
 ---
 <h3 align="center">🛠 Technologies</h3>
